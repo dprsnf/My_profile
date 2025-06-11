@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Unity, Frontend.**
 
-- 📫 How to reach me **nurfiatdaffa@gmail.com**
-
 - ⚡ Fun fact **I like woman**
 
 <h3 align="left">Connect with me:</h3>
